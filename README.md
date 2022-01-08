@@ -8,7 +8,7 @@ This repo aims to round up as many of these unofficial bugfixed executables, plu
 Interested in this stuff? Join MiloHax, the Discord where a lot of this gets sorted, found, or hacked together: https://discord.gg/TPycZbVeqY
 
 ## Testing Status
-Unless otherwise noted, all executables have been tested on both console and emulator.
+Unless otherwise noted, all executables have been tested on both console and emulator. Only NTSC builds are featured at current.
 
 Here's a list of which ones have only been tested on emulator:
 
